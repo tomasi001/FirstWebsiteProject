@@ -11,4 +11,6 @@ I am an aspiring Creative Technologist,
 ambitious to find innovative ways to blur the lines between the digital and physical worlds. 
 
 
-I am passionate about solving problems- the more diverse the better.
+I am passionate about solving problems - the more diverse the better.
+
+Click Here to view my Portfolio: [GitHub](https://tomasi001.github.io/TomShields_Portfolio2021/)
