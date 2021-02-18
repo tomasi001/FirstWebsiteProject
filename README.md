@@ -13,4 +13,4 @@ ambitious to find innovative ways to blur the lines between the digital and phys
 
 I am passionate about solving problems - the more diverse the better.
 
-Click [Here] (https://tomasi001.github.io/TomShields_Portfolio2021/) to view my Portfolio: 
+Click [Here](https://tomasi001.github.io/TomShields_Portfolio2021/) to view my Portfolio: 
