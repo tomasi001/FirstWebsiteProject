@@ -1,0 +1,90 @@
+<!-- Declare document type as html -->
+<!DOCTYPE html>
+<!-- HTML Checker used -->
+<!-- Declare Language as English -->
+<html lang="en">
+
+<head>
+  <!-- reference utf-8 character set -->
+  <meta charset="utf-8">
+
+  <!-- make site adapt to device width -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- link html file to bootstrap styling -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- link my style sheet -->
+  <link rel="stylesheet" type="text/css" href="../Style/style.css">
+
+  <!-- link html file to Font Awesome Icons -->
+  <script src="https://kit.fontawesome.com/fcd80a63d5.js" crossorigin="anonymous"></script>
+
+  <!-- declare title of webpage -->
+  <title>Sustainable Lives</title>
+</head>
+
+<body id="colorChange">
+  <!-- declare heading of webpage -->
+  <h1 id="drop" class="text-center text-light p-4 bg-dark">SUSTAINABLE LIVES</h1>
+
+  <!-- declare accordian nav bar -->
+  <div id="accordian-wrapper">
+    <div class="card">
+      <div class="card-body">
+        <p><a class="nav-link active text-light" aria-current="page" href="../index.html">Home</a><br><br>
+          <a class="nav-link text-light" href="../Pages/what_you_can_do.html">What You
+            Can Do</a> <br><br>
+          <a class="nav-link text-light" href="../Pages/About.html">About</a> <br><br>
+          <a class="nav-link text-light" href="../Pages/Contact.html">Contact</a> <br><br>
+          <a class="nav-link text-light" href="../Pages/profile.html">Profile</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <br><br>
+
+  <h2 class="centerText">Welcome To Your Very Own Profile</h2><br><br>
+  <h3 class="centerText">Here, you can view the videos and articles that you have saved to view at your convenience
+    <br><br>
+
+  </h3>
+  <!-- create button to trigger an event -->
+  <button class="partyStart">START THE PARTICLE PARTY</button>
+
+  <!-- create section to display particle system
+  used this video for help https://www.youtube.com/watch?v=cUzihD4JBQU&ab_channel=OnlineTutorials
+  used this video for help https://www.youtube.com/watch?v=YAFo5W4kM9g&ab_channel=LearnDesign 
+  create button and list to display saved links-->
+  <div id="particles-js">
+    <button id="viewList">View Saved List</button>
+    <ul id="savedList">
+    </ul>
+    <!-- create button to remove all saved links -->
+    <button class="removeButton">REMOVE ALL SAVED ITEMS</button>
+  </div>
+  <!-- link to jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+  <!-- link to particle.js -->
+  <script  src="../Libraries/particles.js"></script>
+
+  <!-- link to javascript file -->
+  <script src="../Libraries/app.js"></script>
+
+  <!-- link to javascript file -->
+  <script  src="../JS/sustainableLiving.js"></script>
+
+  <!-- reference popper.js and bootstrap -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
