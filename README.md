@@ -1,16 +1,13 @@
-# Welcome To My World
+# Passion Website (created as a task for college)
 
+### in this project i had to use HTML, CSS and javascript to create a website centred around a passion of mine. It contains links to articles and videos to help one start a garden at home.
 
-## Hello,
-I'm Tom Shields.
-You can call me Tomasi
+#### Contents
+*Home Page
+*What You Can Do Page
+*About Page
+*Contact Page
+*Profile Page
 
-Let me begin by giving you a warm welcome to my portfolio. My creative solution to the problem I was faced with of how to showcase my work.
-
-I am an aspiring Creative Technologist,
-ambitious to find innovative ways to blur the lines between the digital and physical worlds. 
-
-
-I am passionate about solving problems - the more diverse the better.
-
-Click [Here](https://tomasi001.github.io/TomShields_Portfolio2021/) to view my Portfolio: 
+#### Usage
+Click [Here](https://tomasi001.github.io/) to view the Website: 
