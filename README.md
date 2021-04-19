@@ -4,11 +4,11 @@
 ### It contains links to articles and videos to help one start a garden at home.
 
 #### Contents
-#####Home Page
-#####What You Can Do Page
-#####About Page
-#####Contact Page
-#####Profile Page
+##### Home Page
+##### What You Can Do Page
+##### About Page
+##### Contact Page
+##### Profile Page
 
 #### Usage
 Click [Here](https://tomasi001.github.io/) to view the Website: 
